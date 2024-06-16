@@ -15,3 +15,17 @@ class phonePe{
     }
     
 }
+//Test
+public class Main {
+    public static void main(String[] args) {
+        BankingService a=new ICICAdapter();
+        phonePe p=new phonePe(a);
+        System.out.print(p.getBal());
+        System.out.print(p.gethis());
+        
+        BankingService b=new HDFCAdapter();
+        phonePe q=new phonePe(b);
+        System.out.print(q.getBal());
+        System.out.print(q.pay());
+    }
+}
