@@ -11,6 +11,7 @@ Attaching references that are availble to all, which helped me for easy understa
 If You Are Beginner for LLD, Basic talk to get clear picture:(After completetion of my learnings of LLD)
 
 
+![1](https://github.com/user-attachments/assets/ada215aa-32ce-466a-928c-59234d36e9cc)
 
 References:
 
