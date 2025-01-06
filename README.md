@@ -12,6 +12,7 @@ If You Are Beginner for LLD, Basic talk to get clear picture:(After completetion
 
 
 ![1](https://github.com/user-attachments/assets/ada215aa-32ce-466a-928c-59234d36e9cc)
+![2](https://github.com/user-attachments/assets/95a2a1e1-1163-493c-a7af-b81f7edba14d)
 
 References:
 
